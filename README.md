@@ -1,4 +1,6 @@
 ## mikeMedis' Bloc Frontend Project Starter
+This was used to learn Frontend Development in my BLOC.io program and
+was assisted by my mentor Ryan Balfanz. 
 
 A starter application for student projects in Bloc's [Frontend Web Development Course](https://www.bloc.io/frontend-development-bootcamp).
 
